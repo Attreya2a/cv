@@ -1,0 +1,60 @@
+body {
+background-color: white;
+background-blend-mode: soft-light;
+color: blue;
+text-shadow: seagreen;}
+
+h1 {
+height: 40px;
+width: 100%;
+text-align: center;
+background-color: grey;
+color: white;
+border-style: ridge;
+border-color: black;
+border-width: 1px 1px 2px 2px;
+border-radius: 6px;}
+
+h2.name{
+color: lightblue;
+font-style: Serif;
+font-family: sans-serif;
+}
+
+img.pic{
+height: 250px;
+width: 100%;
+}
+
+p.level {
+color: black;
+opacity: 0.5;}
+
+button {
+color: lightblue;
+background-color: dimgrey;
+border-radius: 6px;}
+
+ul.list {
+color: black;
+font-size: 15px;
+font-style: normal;
+}
+
+p.skills {
+color: orange;
+}
+
+ol.languagelist {
+color: black;
+font-size: 15px;
+font-style: normal;
+}
+
+p.language{
+color: purple;
+}
+
+table.movieslist{
+color: lightblue;
+}
